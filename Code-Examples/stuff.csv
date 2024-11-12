@@ -1,0 +1,4 @@
+foodID,name,price,isVegan
+01,Parmo,4.99,false
+02,Pizza,5.80,false
+03,Cheesecake,2.60,false
