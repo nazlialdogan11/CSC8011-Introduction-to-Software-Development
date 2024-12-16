@@ -20,7 +20,7 @@ Open the .java files.
 
 # ℹ About the Bookstore Window Manager
 
-The Bookstore Window Manager aims to assist the employees of a local bookstore to keep track of the books displayed on the bookstore window. It ensures to display one copy of each book at the same time, all the while keeping track of the book informatiohn such as the unique ID, title, year the book was published and the monetary value of the book (in Pounds sterling).
+The Bookstore Window Manager aims to assist the employees of a local bookstore to keep track of the books displayed on the bookstore window. It ensures to display one copy of each book at the same time, all the while keeping track of the book information such as the unique ID, title, year the book was published and the monetary value of the book (in Pounds sterling).
 
 # 🔖 Achievements
 
