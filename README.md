@@ -24,12 +24,12 @@ The Bookstore Window Manager aims to assist the employees of a local bookstore t
 
 # 🔖 Achievements
 
-> ***The system successfully:***
-> Defines a Java class "Book" with appropriate fields, methods and constructor to store and retrieve information about the book ID, title, year published and value.
-> Defines a Java class "BookStoreWindow" to represent the book store's window, with appropriate fields, methods and constructor to store and retrieve the name of the book store and a list of Book items.
-> Uses an appropriate Collection class to represent the list of books.
-> Includes methods to find and return the object representing the book with the highest value, the object representing the oldest book displayed in the window and the average value of all books.
-> Defines a Java class "BookStoreWindowIO" with a main method to present the user with a menu of options:
+***The system successfully:***
+- Defines a Java class "Book" with appropriate fields, methods and constructor to store and retrieve information about the book ID, title, year published and value.
+- Defines a Java class "BookStoreWindow" to represent the book store's window, with appropriate fields, methods and constructor to store and retrieve the name of the book store and a list of Book items.
+- Uses an appropriate Collection class to represent the list of books.
+- Includes methods to find and return the object representing the book with the highest value, the object representing the oldest book displayed in the window and the average value of all books.
+- > Defines a Java class "BookStoreWindowIO" with a main method to present the user with a menu of options:
 > - Enter the name of the book store.
 > - Read in information on the books from a .csv file in the current directory called books.csv. 
 > - Print a summary of the book store name followed by a list of all books, their value and the year published.
@@ -37,12 +37,12 @@ The Bookstore Window Manager aims to assist the employees of a local bookstore t
 > - Take user input from the console to choose one of the menu options.
 > - After executing one of the features, return the user to the menu to choose another option.
 
-> ***The learning outcomes achieved upon the completion of this project were summarised below.***
-> - Defined classes, fields, constructors, and methods in Java.
-> - Used appropriate types, including collections.
-> - Implemented basic algorithms using collections.
-> - Wrote a main method including console and file input/output.
-> - Provided well encapsulated classes as well as a proper amount of comments.
+***The learning outcomes achieved upon the completion of this project were summarised below.***
+- Defined classes, fields, constructors, and methods in Java.
+- Used appropriate types, including collections.
+- Implemented basic algorithms using collections.
+- Wrote a main method including console and file input/output.
+- Provided well encapsulated classes as well as a proper amount of comments.
 
 # 📄 Program Output
 
@@ -52,10 +52,10 @@ After executing the code, the system displays a menu for user interaction (Figur
 
 # ❇️ Future Improvements
 
-> ***The following remarks were made by the instructor for future improvements.***
-> - Creating blank Book instances to be replaced by initially getting the first book in the ArrayList as a starting point Methods for getting the highest priced book and oldest book for optimisation.
-> - Placing the code that prints out the menu into a separate auxiliary method to simplify the HandleUserMenu() method.
-> - Using more try/catch blocks to deal with invalid user input (i.e. if user does not enter a number for the menu).
+***The following remarks were made by the instructor for future improvements.***
+- Creating blank Book instances to be replaced by initially getting the first book in the ArrayList as a starting point Methods for getting the highest priced book and oldest book for optimisation.
+- Placing the code that prints out the menu into a separate auxiliary method to simplify the HandleUserMenu() method.
+- Using more try/catch blocks to deal with invalid user input (i.e. if user does not enter a number for the menu).
 
   # References
 
