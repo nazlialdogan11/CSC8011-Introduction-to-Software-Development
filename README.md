@@ -13,7 +13,7 @@ This project aims to provide a tracking system for the books displayed on a loca
 Clone the project to your computer.
 
 ```
-> [git clone https://github.com/erendgrmnc/BezierCurveCase.git](https://github.com/nazlialdogan11/CSC8011-Introduction-to-Software-Development.git )
+> https://github.com/nazlialdogan11/CSC8011-Introduction-to-Software-Development.git
 ```
 
 Open the .java files.
