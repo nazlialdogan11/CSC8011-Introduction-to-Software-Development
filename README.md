@@ -57,9 +57,9 @@ After executing the code, the system displays a menu for user interaction (Figur
 - Placing the code that prints out the menu into a separate auxiliary method to simplify the HandleUserMenu() method.
 - Using more try/catch blocks to deal with invalid user input (i.e. if user does not enter a number for the menu).
 
-  # References
+  # ⛓️ References
 
-- *[Click for detailed information on the CSC8011 module.]([https://stackoverflow.com](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8011 )*
+- *[Click for detailed information on the CSC8011 module.]([https://stackoverflow.com](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8011)*
   
 
 
