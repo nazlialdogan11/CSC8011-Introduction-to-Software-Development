@@ -29,7 +29,7 @@ The Bookstore Window Manager aims to assist the employees of a local bookstore t
 - Defines a Java class "BookStoreWindow" to represent the book store's window, with appropriate fields, methods and constructor to store and retrieve the name of the book store and a list of Book items.
 - Uses an appropriate Collection class to represent the list of books.
 - Includes methods to find and return the object representing the book with the highest value, the object representing the oldest book displayed in the window and the average value of all books.
-- > Defines a Java class "BookStoreWindowIO" with a main method to present the user with a menu of options:
+- Defines a Java class "BookStoreWindowIO" with a main method to present the user with a menu of options:
 > - Enter the name of the book store.
 > - Read in information on the books from a .csv file in the current directory called books.csv. 
 > - Print a summary of the book store name followed by a list of all books, their value and the year published.
