@@ -59,7 +59,7 @@ After executing the code, the system displays a menu for user interaction (Figur
 
   # References
 
-- *[Click for detailed information on the CSC8011 module.]([https://stackoverflow.com](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8011 ))*
+- *[Click for detailed information on the CSC8011 module.]([https://stackoverflow.com](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8011 )*
   
 
 
