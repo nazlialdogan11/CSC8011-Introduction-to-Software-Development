@@ -29,13 +29,13 @@ The Bookstore Window Manager aims to assist the employees of a local bookstore t
 - Defines a Java class "BookStoreWindow" to represent the book store's window, with appropriate fields, methods and constructor to store and retrieve the name of the book store and a list of Book items.
 - Uses an appropriate Collection class to represent the list of books.
 - Includes methods to find and return the object representing the book with the highest value, the object representing the oldest book displayed in the window and the average value of all books.
-- Defines a Java class "BookStoreWindowIO" with a main method to present the user with a menu of options:
-> - Enter the name of the book store.
-> - Read in information on the books from a .csv file in the current directory called books.csv. 
-> - Print a summary of the book store name followed by a list of all books, their value and the year published.
-> - Print statistics on books, showing the full details of the book with the highest value, oldest book displayed in the window, and average value of books displayed in the window of the book store.
-> - Take user input from the console to choose one of the menu options.
-> - After executing one of the features, return the user to the menu to choose another option.
+- Defines a Java class "BookStoreWindowIO" with a main method to present the user with a menu directing to the following options:
+- _Enter the name of the book store._
+- _Read in information on the books from a .csv file in the current directory called books.csv._
+- _Print a summary of the book store name followed by a list of all books, their value and the year published._
+- _Print statistics on books, showing the full details of the book with the highest value, oldest book displayed in the window, and average value of books displayed in the window of the book store._
+- _Take user input from the console to choose one of the menu options._
+- _After executing one of the features, return the user to the menu to choose another option._
 
 ***The learning outcomes achieved upon the completion of this project were summarised below.***
 - Defined classes, fields, constructors, and methods in Java.
