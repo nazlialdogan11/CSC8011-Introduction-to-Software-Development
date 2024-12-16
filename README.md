@@ -1,6 +1,6 @@
 # 📚 Bookstore Window Manager 
 
-*Bookstore Window Manager project was completed as a coursework for the CSC8011 module taught for the MSc Computer Science programme within the School of Computing at Newcastle University for the 2023/2024 Academic Year.*
+*Bookstore Window Manager project was completed as a coursework for the CSC8011 module(Introduction to Software Development) taught for the MSc Computer Science programme within the School of Computing at Newcastle University during the 2023/2024 Academic Year.*
 
 This project aims to provide a tracking system for the books displayed on a local bookstore window.
 
