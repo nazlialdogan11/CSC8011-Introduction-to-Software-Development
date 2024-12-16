@@ -59,7 +59,7 @@ After executing the code, the system displays a menu for user interaction (Figur
 # ❇️ Future Improvements
 
 ***The following remarks were made by the instructor for future improvements.***
-- Creating blank Book instances to be replaced by initially getting the first book in the ArrayList as a starting point Methods for getting the highest priced book and oldest book for optimisation.
+- Replacing the creating blank Book instances with initially getting the first book in the ArrayList as a starting point Methods for getting the highest priced book and oldest book for optimisation.
 - Placing the code that prints out the menu into a separate auxiliary method to simplify the HandleUserMenu() method.
 - Using more try/catch blocks to deal with invalid user input (i.e. if user does not enter a number for the menu).
 
